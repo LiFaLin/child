@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  Child-test
+//
+//  Created by Yomoo on 2018/1/11.
+//  Copyright © 2018年 Yomoo. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#define SCREEN_WIDTH [UIScreen mainScreen].bounds.size.width
+#define SCREEN_HEIGHT [UIScreen mainScreen].bounds.size.height
+
+#define HEIGHT [UIScreen mainScreen].bounds.size.height - 64
+
+
+#endif /* PrefixHeader_pch */
