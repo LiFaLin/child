@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "89B620B413EA729D0582364E0F855990887C280B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "89B620B413EA729D0582364E0F855990887C280B" : 9223372036854775807,
+    "3CE4D155EC67E61754296018A25D1683CC5BEE6B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0C183F32-DEA7-4E1F-B2BE-86925E712C57",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "89B620B413EA729D0582364E0F855990887C280B" : "child\/",
+    "3CE4D155EC67E61754296018A25D1683CC5BEE6B" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Child-test",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Child-test.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LiFaLin\/Child-test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3CE4D155EC67E61754296018A25D1683CC5BEE6B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LiFaLin\/child.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "89B620B413EA729D0582364E0F855990887C280B"
+    }
+  ]
+}

@@ -7,6 +7,7 @@
 //
 
 #import "FirstViewController.h"
+#import "LoginViewController.h"
 #import "TBCityIconFont.h"
 @interface FirstViewController ()
 
@@ -16,22 +17,16 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-   
+    UIButton *button=[UIButton buttonWithType:UIButtonTypeCustom];
+    [button addTarget:self action:@selector(buttonClick) forControlEvents:UIControlEventTouchUpInside];
+    [button setTitle:@"按钮" forState:UIControlStateNormal];
+    [button setBackgroundColor:[UIColor grayColor]];
+    button.frame=CGRectMake(100, 100, 80, 50);
+    [self.view addSubview:button];
 }
-
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+-(void)buttonClick{
+    LoginViewController *login=[[LoginViewController alloc]init];
+    [self.navigationController pushViewController:login animated:YES];
 }
-
-/*
-#pragma mark - Navigation
-
-// In a storyboard-based application, you will often want to do a little preparation before navigation
-- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
-    // Get the new view controller using [segue destinationViewController].
-    // Pass the selected object to the new view controller.
-}
-*/
 
 @end

@@ -47,9 +47,9 @@
     MineViewController *mine=[[MineViewController alloc]init];
     BaseNavgationController *nav3=[[BaseNavgationController alloc]initWithRootViewController:mine];
     mine.navigationItem.title=@"个人主页";
-    mine.tabBarItem.title=@"设置";
-    mine.tabBarItem.image=[UIImage imageNamed:@"我的2"];
-    mine.tabBarItem.selectedImage=[[UIImage imageNamed:@"我的"]imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal];
+    mine.tabBarItem.title=@"我的";
+    mine.tabBarItem.image=[UIImage iconWithInfo:TBCityIconInfoMake(@"\U0000e652", 25, [UIColor redColor])];
+    mine.tabBarItem.selectedImage=[[UIImage imageNamed:@""]imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal];
     
     NSArray *array=[NSArray arrayWithObjects:nav,nav1,nav2,nav3, nil];
     self.viewControllers=array;
