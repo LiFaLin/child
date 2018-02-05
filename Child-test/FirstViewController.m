@@ -8,6 +8,8 @@
 #define kWarningDuration   1.8
 #import "FirstViewController.h"
 #import "LoginViewController.h"
+#import "LFLCommitViewController.h"
+#import "LFLChooseViewController.h"
 #import "TBCityIconFont.h"
 #import <MBProgressHUD.h>
 @interface FirstViewController ()
@@ -72,18 +74,19 @@
         hud.customView = imageView;
         imageView.animationDuration = 1.0;
         [imageView startAnimating];
-        //         hud.color = [UIColor clearColor];
         hud.backgroundColor=[UIColor clearColor];
-        //[hud hide:YES afterDelay:kTimeOutDuration];
         [hud hideAnimated:YES afterDelay:kWarningDuration];
     });
 }
 
 -(void)button2Click{
-    
+    LFLChooseViewController *choose=[[LFLChooseViewController alloc]init];
+    [self.navigationController pushViewController:choose animated:YES];
 }
 
 -(void)button3Click{
-    
+    NSLog(@"评论");
+    LFLCommitViewController *lfl=[[LFLCommitViewController alloc]init];
+    [self.navigationController pushViewController:lfl animated:YES];
 }
 @end

@@ -6,7 +6,7 @@ target 'Child-test' do
   # use_frameworks!
 
   # Pods for Child-test
-
+pod 'KSPhotoBrowser'
     pod 'Masonry', '~> 1.0.2'   
     pod 'SDWebImage', '~>3.8'
     pod 'MJExtension', '~> 3.0.13’

@@ -21,9 +21,29 @@
 		0E5C1C8A2007612F009043F7 /* page2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E5C1C892007612F009043F7 /* page2.jpg */; };
 		0E5C1C8D2007618B009043F7 /* BaseTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E5C1C8C2007618B009043F7 /* BaseTabBarController.m */; };
 		0E5C1C90200762AE009043F7 /* BaseNavgationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E5C1C8F200762AE009043F7 /* BaseNavgationController.m */; };
+		0E5CBD872023FB420017BFA4 /* CommitsData.json in Resources */ = {isa = PBXBuildFile; fileRef = 0E5CBD862023FB420017BFA4 /* CommitsData.json */; };
+		0E5CBD8A202400060017BFA4 /* LFLCommitViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E5CBD89202400060017BFA4 /* LFLCommitViewController.m */; };
+		0E5CBD90202401480017BFA4 /* LFLCommit.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E5CBD8F202401480017BFA4 /* LFLCommit.m */; };
+		0E5CBD93202402AA0017BFA4 /* LFLCommitFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E5CBD92202402AA0017BFA4 /* LFLCommitFrame.m */; };
+		0E5CBD96202405AB0017BFA4 /* LFLCommitKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E5CBD95202405AB0017BFA4 /* LFLCommitKit.m */; };
+		0E5CBD99202409050017BFA4 /* LFLCommitCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E5CBD98202409050017BFA4 /* LFLCommitCell.m */; };
+		0E5CBD9C2024094F0017BFA4 /* LFLImgLeftBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E5CBD9B2024094F0017BFA4 /* LFLImgLeftBtn.m */; };
+		0E5CBD9F202410260017BFA4 /* LFLCommitPhotoView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E5CBD9E202410260017BFA4 /* LFLCommitPhotoView.m */; };
+		0E5CBDA2202410BB0017BFA4 /* LFLStartView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E5CBDA1202410BB0017BFA4 /* LFLStartView.m */; };
+		0E5CBDA5202411680017BFA4 /* LFLButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E5CBDA4202411680017BFA4 /* LFLButton.m */; };
+		0E5CBDA9202446D80017BFA4 /* LFLChooseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E5CBDA8202446D80017BFA4 /* LFLChooseViewController.m */; };
 		0E5DBC6D200D961B0078AC32 /* iconfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0E5DBC6C200D961B0078AC32 /* iconfont.ttf */; };
 		0E5DBC70200D97350078AC32 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E5DBC6F200D97350078AC32 /* LoginViewController.m */; };
 		0E5DBC72200DD8D90078AC32 /* logo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E5DBC71200DD8D90078AC32 /* logo.jpg */; };
+		0E6943412028065D0030F935 /* LFLChooseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E6943402028065D0030F935 /* LFLChooseModel.m */; };
+		0E694344202831500030F935 /* LFLChooseView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E694343202831500030F935 /* LFLChooseView.m */; };
+		0E694347202841E20030F935 /* LFLChooseShowView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E694346202841E20030F935 /* LFLChooseShowView.m */; };
+		0E694350202842910030F935 /* ZJOneChildView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E694349202842910030F935 /* ZJOneChildView.m */; };
+		0E694351202842910030F935 /* ZJThreeChildView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E69434B202842910030F935 /* ZJThreeChildView.m */; };
+		0E694352202842910030F935 /* ZJTwoChildView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E69434D202842910030F935 /* ZJTwoChildView.m */; };
+		0E694353202842910030F935 /* ZJFourChildView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E69434E202842910030F935 /* ZJFourChildView.m */; };
+		0E694358202844540030F935 /* ZJChooseViewOneLeftCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E694355202844540030F935 /* ZJChooseViewOneLeftCell.m */; };
+		0E694359202844540030F935 /* ZJChooseOneRightCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E694357202844540030F935 /* ZJChooseOneRightCell.m */; };
 		0E6B9F2420084D48005ABD85 /* TBCityIconFont.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E6B9F1F20084D48005ABD85 /* TBCityIconFont.m */; };
 		0E6B9F2520084D48005ABD85 /* TBCityIconInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E6B9F2120084D48005ABD85 /* TBCityIconInfo.m */; };
 		0E6B9F2620084D48005ABD85 /* UIImage+TBCityIconFont.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E6B9F2320084D48005ABD85 /* UIImage+TBCityIconFont.m */; };
@@ -81,10 +101,49 @@
 		0E5C1C8C2007618B009043F7 /* BaseTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseTabBarController.m; sourceTree = "<group>"; };
 		0E5C1C8E200762AE009043F7 /* BaseNavgationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseNavgationController.h; sourceTree = "<group>"; };
 		0E5C1C8F200762AE009043F7 /* BaseNavgationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseNavgationController.m; sourceTree = "<group>"; };
+		0E5CBD862023FB420017BFA4 /* CommitsData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = CommitsData.json; sourceTree = "<group>"; };
+		0E5CBD88202400060017BFA4 /* LFLCommitViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LFLCommitViewController.h; sourceTree = "<group>"; };
+		0E5CBD89202400060017BFA4 /* LFLCommitViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LFLCommitViewController.m; sourceTree = "<group>"; };
+		0E5CBD8E202401480017BFA4 /* LFLCommit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LFLCommit.h; sourceTree = "<group>"; };
+		0E5CBD8F202401480017BFA4 /* LFLCommit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LFLCommit.m; sourceTree = "<group>"; };
+		0E5CBD91202402AA0017BFA4 /* LFLCommitFrame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LFLCommitFrame.h; sourceTree = "<group>"; };
+		0E5CBD92202402AA0017BFA4 /* LFLCommitFrame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LFLCommitFrame.m; sourceTree = "<group>"; };
+		0E5CBD94202405AB0017BFA4 /* LFLCommitKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LFLCommitKit.h; sourceTree = "<group>"; };
+		0E5CBD95202405AB0017BFA4 /* LFLCommitKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LFLCommitKit.m; sourceTree = "<group>"; };
+		0E5CBD97202409050017BFA4 /* LFLCommitCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LFLCommitCell.h; sourceTree = "<group>"; };
+		0E5CBD98202409050017BFA4 /* LFLCommitCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LFLCommitCell.m; sourceTree = "<group>"; };
+		0E5CBD9A2024094F0017BFA4 /* LFLImgLeftBtn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LFLImgLeftBtn.h; sourceTree = "<group>"; };
+		0E5CBD9B2024094F0017BFA4 /* LFLImgLeftBtn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LFLImgLeftBtn.m; sourceTree = "<group>"; };
+		0E5CBD9D202410260017BFA4 /* LFLCommitPhotoView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LFLCommitPhotoView.h; sourceTree = "<group>"; };
+		0E5CBD9E202410260017BFA4 /* LFLCommitPhotoView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LFLCommitPhotoView.m; sourceTree = "<group>"; };
+		0E5CBDA0202410BB0017BFA4 /* LFLStartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LFLStartView.h; sourceTree = "<group>"; };
+		0E5CBDA1202410BB0017BFA4 /* LFLStartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LFLStartView.m; sourceTree = "<group>"; };
+		0E5CBDA3202411680017BFA4 /* LFLButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LFLButton.h; sourceTree = "<group>"; };
+		0E5CBDA4202411680017BFA4 /* LFLButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LFLButton.m; sourceTree = "<group>"; };
+		0E5CBDA7202446D80017BFA4 /* LFLChooseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LFLChooseViewController.h; sourceTree = "<group>"; };
+		0E5CBDA8202446D80017BFA4 /* LFLChooseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LFLChooseViewController.m; sourceTree = "<group>"; };
 		0E5DBC6C200D961B0078AC32 /* iconfont.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = iconfont.ttf; sourceTree = "<group>"; };
 		0E5DBC6E200D97350078AC32 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
 		0E5DBC6F200D97350078AC32 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
 		0E5DBC71200DD8D90078AC32 /* logo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = logo.jpg; sourceTree = "<group>"; };
+		0E69433F2028065D0030F935 /* LFLChooseModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LFLChooseModel.h; sourceTree = "<group>"; };
+		0E6943402028065D0030F935 /* LFLChooseModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LFLChooseModel.m; sourceTree = "<group>"; };
+		0E694342202831500030F935 /* LFLChooseView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LFLChooseView.h; sourceTree = "<group>"; };
+		0E694343202831500030F935 /* LFLChooseView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LFLChooseView.m; sourceTree = "<group>"; };
+		0E694345202841E20030F935 /* LFLChooseShowView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LFLChooseShowView.h; sourceTree = "<group>"; };
+		0E694346202841E20030F935 /* LFLChooseShowView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LFLChooseShowView.m; sourceTree = "<group>"; };
+		0E694348202842910030F935 /* ZJOneChildView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZJOneChildView.h; sourceTree = "<group>"; };
+		0E694349202842910030F935 /* ZJOneChildView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZJOneChildView.m; sourceTree = "<group>"; };
+		0E69434A202842910030F935 /* ZJThreeChildView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZJThreeChildView.h; sourceTree = "<group>"; };
+		0E69434B202842910030F935 /* ZJThreeChildView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZJThreeChildView.m; sourceTree = "<group>"; };
+		0E69434C202842910030F935 /* ZJTwoChildView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZJTwoChildView.h; sourceTree = "<group>"; };
+		0E69434D202842910030F935 /* ZJTwoChildView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZJTwoChildView.m; sourceTree = "<group>"; };
+		0E69434E202842910030F935 /* ZJFourChildView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZJFourChildView.m; sourceTree = "<group>"; };
+		0E69434F202842910030F935 /* ZJFourChildView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZJFourChildView.h; sourceTree = "<group>"; };
+		0E694354202844540030F935 /* ZJChooseViewOneLeftCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZJChooseViewOneLeftCell.h; sourceTree = "<group>"; };
+		0E694355202844540030F935 /* ZJChooseViewOneLeftCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZJChooseViewOneLeftCell.m; sourceTree = "<group>"; };
+		0E694356202844540030F935 /* ZJChooseOneRightCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZJChooseOneRightCell.h; sourceTree = "<group>"; };
+		0E694357202844540030F935 /* ZJChooseOneRightCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZJChooseOneRightCell.m; sourceTree = "<group>"; };
 		0E6B9F1E20084D48005ABD85 /* TBCityIconFont.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TBCityIconFont.h; sourceTree = "<group>"; };
 		0E6B9F1F20084D48005ABD85 /* TBCityIconFont.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TBCityIconFont.m; sourceTree = "<group>"; };
 		0E6B9F2020084D48005ABD85 /* TBCityIconInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TBCityIconInfo.h; sourceTree = "<group>"; };
@@ -244,6 +303,99 @@
 			name = "引导页";
 			sourceTree = "<group>";
 		};
+		0E5CBD852023FB280017BFA4 /* 评论 */ = {
+			isa = PBXGroup;
+			children = (
+				0E5CBD8D202401020017BFA4 /* C */,
+				0E5CBD8C202400FB0017BFA4 /* V */,
+				0E5CBD8B202400F40017BFA4 /* M */,
+				0E5CBD862023FB420017BFA4 /* CommitsData.json */,
+				0E5CBD94202405AB0017BFA4 /* LFLCommitKit.h */,
+				0E5CBD95202405AB0017BFA4 /* LFLCommitKit.m */,
+			);
+			name = "评论";
+			sourceTree = "<group>";
+		};
+		0E5CBD8B202400F40017BFA4 /* M */ = {
+			isa = PBXGroup;
+			children = (
+				0E5CBD8E202401480017BFA4 /* LFLCommit.h */,
+				0E5CBD8F202401480017BFA4 /* LFLCommit.m */,
+				0E5CBD91202402AA0017BFA4 /* LFLCommitFrame.h */,
+				0E5CBD92202402AA0017BFA4 /* LFLCommitFrame.m */,
+			);
+			name = M;
+			sourceTree = "<group>";
+		};
+		0E5CBD8C202400FB0017BFA4 /* V */ = {
+			isa = PBXGroup;
+			children = (
+				0E5CBD97202409050017BFA4 /* LFLCommitCell.h */,
+				0E5CBD98202409050017BFA4 /* LFLCommitCell.m */,
+				0E5CBD9A2024094F0017BFA4 /* LFLImgLeftBtn.h */,
+				0E5CBD9B2024094F0017BFA4 /* LFLImgLeftBtn.m */,
+				0E5CBD9D202410260017BFA4 /* LFLCommitPhotoView.h */,
+				0E5CBD9E202410260017BFA4 /* LFLCommitPhotoView.m */,
+				0E5CBDA0202410BB0017BFA4 /* LFLStartView.h */,
+				0E5CBDA1202410BB0017BFA4 /* LFLStartView.m */,
+				0E5CBDA3202411680017BFA4 /* LFLButton.h */,
+				0E5CBDA4202411680017BFA4 /* LFLButton.m */,
+			);
+			name = V;
+			sourceTree = "<group>";
+		};
+		0E5CBD8D202401020017BFA4 /* C */ = {
+			isa = PBXGroup;
+			children = (
+				0E5CBD88202400060017BFA4 /* LFLCommitViewController.h */,
+				0E5CBD89202400060017BFA4 /* LFLCommitViewController.m */,
+			);
+			name = C;
+			sourceTree = "<group>";
+		};
+		0E5CBDA6202446A20017BFA4 /* 筛选 */ = {
+			isa = PBXGroup;
+			children = (
+				0E69433B202806000030F935 /* V */,
+				0E69433A202805F70030F935 /* Model */,
+				0E5CBDA7202446D80017BFA4 /* LFLChooseViewController.h */,
+				0E5CBDA8202446D80017BFA4 /* LFLChooseViewController.m */,
+			);
+			name = "筛选";
+			sourceTree = "<group>";
+		};
+		0E69433A202805F70030F935 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				0E69433F2028065D0030F935 /* LFLChooseModel.h */,
+				0E6943402028065D0030F935 /* LFLChooseModel.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		0E69433B202806000030F935 /* V */ = {
+			isa = PBXGroup;
+			children = (
+				0E694354202844540030F935 /* ZJChooseViewOneLeftCell.h */,
+				0E694355202844540030F935 /* ZJChooseViewOneLeftCell.m */,
+				0E694356202844540030F935 /* ZJChooseOneRightCell.h */,
+				0E694357202844540030F935 /* ZJChooseOneRightCell.m */,
+				0E694348202842910030F935 /* ZJOneChildView.h */,
+				0E694349202842910030F935 /* ZJOneChildView.m */,
+				0E69434A202842910030F935 /* ZJThreeChildView.h */,
+				0E69434B202842910030F935 /* ZJThreeChildView.m */,
+				0E69434C202842910030F935 /* ZJTwoChildView.h */,
+				0E69434D202842910030F935 /* ZJTwoChildView.m */,
+				0E69434E202842910030F935 /* ZJFourChildView.m */,
+				0E69434F202842910030F935 /* ZJFourChildView.h */,
+				0E694342202831500030F935 /* LFLChooseView.h */,
+				0E694343202831500030F935 /* LFLChooseView.m */,
+				0E694345202841E20030F935 /* LFLChooseShowView.h */,
+				0E694346202841E20030F935 /* LFLChooseShowView.m */,
+			);
+			name = V;
+			sourceTree = "<group>";
+		};
 		0E6B9F1D20084D48005ABD85 /* LFL Iconfond */ = {
 			isa = PBXGroup;
 			children = (
@@ -289,6 +441,8 @@
 			children = (
 				0E6B9F2B20084E54005ABD85 /* FirstViewController.h */,
 				0E6B9F2C20084E54005ABD85 /* FirstViewController.m */,
+				0E5CBDA6202446A20017BFA4 /* 筛选 */,
+				0E5CBD852023FB280017BFA4 /* 评论 */,
 			);
 			name = "首页";
 			sourceTree = "<group>";
@@ -442,6 +596,7 @@
 				0E5C1C56200747C8009043F7 /* Assets.xcassets in Resources */,
 				0E5C1C54200747C8009043F7 /* Main.storyboard in Resources */,
 				0E5C1C8A2007612F009043F7 /* page2.jpg in Resources */,
+				0E5CBD872023FB420017BFA4 /* CommitsData.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -605,18 +760,37 @@
 			buildActionMask = 2147483647;
 			files = (
 				0E5C1C8D2007618B009043F7 /* BaseTabBarController.m in Sources */,
+				0E694358202844540030F935 /* ZJChooseViewOneLeftCell.m in Sources */,
+				0E6943412028065D0030F935 /* LFLChooseModel.m in Sources */,
 				0E6B9F3020084E6C005ABD85 /* KidsViewController.m in Sources */,
 				0E6B9F3620084E80005ABD85 /* MineViewController.m in Sources */,
+				0E694352202842910030F935 /* ZJTwoChildView.m in Sources */,
+				0E694351202842910030F935 /* ZJThreeChildView.m in Sources */,
+				0E694350202842910030F935 /* ZJOneChildView.m in Sources */,
+				0E694344202831500030F935 /* LFLChooseView.m in Sources */,
 				0E6B9F3320084E77005ABD85 /* VideoViewController.m in Sources */,
+				0E694359202844540030F935 /* ZJChooseOneRightCell.m in Sources */,
 				0E5DBC70200D97350078AC32 /* LoginViewController.m in Sources */,
 				0E5C1C51200747C8009043F7 /* ViewController.m in Sources */,
+				0E5CBD93202402AA0017BFA4 /* LFLCommitFrame.m in Sources */,
+				0E694353202842910030F935 /* ZJFourChildView.m in Sources */,
 				0E5C1C8720075965009043F7 /* FeatureViewController.m in Sources */,
 				0E5C1C4E200747C8009043F7 /* AppDelegate.m in Sources */,
 				0E6B9F2420084D48005ABD85 /* TBCityIconFont.m in Sources */,
+				0E5CBDA9202446D80017BFA4 /* LFLChooseViewController.m in Sources */,
+				0E5CBDA5202411680017BFA4 /* LFLButton.m in Sources */,
 				0E5C1C90200762AE009043F7 /* BaseNavgationController.m in Sources */,
 				0E5C1C4B200747C8009043F7 /* main.m in Sources */,
+				0E5CBD9C2024094F0017BFA4 /* LFLImgLeftBtn.m in Sources */,
 				0E6B9F2D20084E54005ABD85 /* FirstViewController.m in Sources */,
+				0E5CBDA2202410BB0017BFA4 /* LFLStartView.m in Sources */,
 				0E6B9F2620084D48005ABD85 /* UIImage+TBCityIconFont.m in Sources */,
+				0E694347202841E20030F935 /* LFLChooseShowView.m in Sources */,
+				0E5CBD99202409050017BFA4 /* LFLCommitCell.m in Sources */,
+				0E5CBD9F202410260017BFA4 /* LFLCommitPhotoView.m in Sources */,
+				0E5CBD96202405AB0017BFA4 /* LFLCommitKit.m in Sources */,
+				0E5CBD90202401480017BFA4 /* LFLCommit.m in Sources */,
+				0E5CBD8A202400060017BFA4 /* LFLCommitViewController.m in Sources */,
 				0E6B9F2520084D48005ABD85 /* TBCityIconInfo.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

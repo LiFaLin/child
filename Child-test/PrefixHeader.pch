@@ -12,6 +12,16 @@
 #define SCREEN_HEIGHT [UIScreen mainScreen].bounds.size.height
 
 #define HEIGHT [UIScreen mainScreen].bounds.size.height - 64
+#import <Masonry.h>
+
+#define ScreenWidth [UIScreen mainScreen].bounds.size.width
+#define ScreenHeight [UIScreen mainScreen].bounds.size.height
+// 适配宏
+#define HeightRealValue(value) ((value/1334.0)*ScreenHeight)
+#define WidthRealValue(value) ((value/750.0)*ScreenWidth)
+#define SINGLE_LINE_WIDTH           (1 / [UIScreen mainScreen].scale)
 
 
+#import "UIImageView+WebCache.h"
+#import "LFLCommitKit.h"
 #endif /* PrefixHeader_pch */
